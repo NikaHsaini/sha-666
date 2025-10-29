@@ -1,4 +1,4 @@
-# sha-666
+# sha-666 😈
 SHA-666 — Premier algorithme de hashage quantique (PoC)
 Présentation du projet
 
