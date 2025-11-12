@@ -43,3 +43,5 @@ Ainsi, la sortie d’un même input dépend :
 de l’état quantique du processeur au moment du hash,
 
 des paramètres aléatoires de phase,
+
+by Nikafintech
