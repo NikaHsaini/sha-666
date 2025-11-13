@@ -1,13 +1,13 @@
-# sha-666 😈
-SHA-666 — Premier algorithme de hashage quantique (PoC)
+# sha-999 😈
+SHA-999 — Premier algorithme de hashage quantique (PoC)
 Présentation du projet
 
-SHA-666 est un projet expérimental visant à démontrer le premier prototype de hashage quantique fonctionnant sur les ordinateurs quantiques d’IBM Q Experience.
+SHA-999 est un projet expérimental visant à démontrer le premier prototype de hashage quantique fonctionnant sur les ordinateurs quantiques d’IBM Q Experience.
 Il s’agit d’un Proof of Concept (PoC) qui explore comment le calcul quantique peut être utilisé pour créer un algorithme de hashage inviolable sans décryptage classique possible — autrement dit, un hash dont l’inversion n’est réalisable qu’à l’aide d’un ordinateur quantique.
 
-Le nom SHA-666 est une référence symbolique :
+Le nom SHA-999 est une référence symbolique :
 
-"SHA" pour Secure Hash Algorithm, et "666" pour marquer la transition vers la 6ᵉ génération d’algorithmes de sécurité, celle de l’ère quantique.
+"SHA" pour Secure Hash Algorithm, et "999" pour marquer la transition vers la 9ᵉ génération d’algorithmes de sécurité, celle de l’ère quantique.
 
 Objectif du PoC
 
@@ -36,7 +36,7 @@ La mesure des qubits effondre la fonction de hashage, produisant un résultat fi
 Principe du hashage quantique
 
 SHA-256 repose sur une succession de décalages et de modulos binaires.
-SHA-666 applique des rotations quantiques aléatoires et un oracle non déterministe basé sur le principe d’incertitude.
+SHA-999 applique des rotations quantiques aléatoires et un oracle non déterministe basé sur le principe d’incertitude.
 
 Ainsi, la sortie d’un même input dépend :
 
